@@ -2,7 +2,7 @@
 
 ## Why learn Travis CI
 
-I am pursuing a career in SRE/DevOps after recently finishing the first half of the [Holberton School](https://www.holbertonschool.com/) program and I want to become more familiar with the tools and concepts that are relevant in the field.
+I want to become more familiar with the tools and concepts that are leveraged in DevOps.
 
 ## Where the inspiration comes from
 
